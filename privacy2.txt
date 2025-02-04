@@ -3,19 +3,45 @@ Privacy Policy - com.osmanlica.fontchanger
 
 https://play.google.com/store/apps/details?id=com.osmanlica.fontchanger&pli=1
 
-Collected Information
+1. Introduction
 
-This application does not collect or store personal information from users.
+This Privacy Policy outlines how we handles user data in the com.osmanlica.fontchanger application.
 
-Advertisements
+By using this application, you acknowledge that you have read and understood this policy.
 
-This application may use third-party advertising services such as Google AdMob. Ad servers may automatically collect IP addresses and other information.
+2. Collected Information
 
-Cookies
+This application does not collect or store any personal or sensitive user data.
 
-This application may use cookies to enhance user experience and for analytical purposes.
+However, it may use third-party services that collect anonymous data for analytics and advertising purposes.
 
-Third-party Links
+3. Advertisements
 
-This application does not collect or share user information with third-party sites or services.
+The application may display advertisements from third-party providers such as Google AdMob. These services may automatically collect data, including IP addresses, device information, and user interactions with ads, to improve ad relevance.
 
+For more information on how Google AdMob handles data, please visit:
+https://policies.google.com/privacy
+
+4. Cookies and Tracking
+
+This application does not directly use cookies. However, third-party advertising or analytics services may use cookies or tracking technologies to enhance user experience.
+
+You can manage or disable cookies through your device settings.
+
+5. Third-Party Links
+
+This application does not collect or share user data with third-party services. However, advertisements shown in the app may redirect users to external websites. We are not responsible for the privacy policies of these external sites.
+6. Data Security and Retention
+
+Since this application does not collect personal data, no data storage or retention policies apply.
+
+7. User Rights and Contact Information
+
+If you have any questions about this Privacy Policy or how your data is handled, please contact us at:
+📩 deniz.develop@gmail.com
+
+8. Changes to This Privacy Policy
+
+We reserve the right to update this Privacy Policy. Any changes will be reflected on this page with the updated date.
+
+Last updated: 04.02.2025
